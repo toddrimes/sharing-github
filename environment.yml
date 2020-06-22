@@ -4,8 +4,12 @@ channels:
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0
   - python
-  - numpy
-  - matplotlib
-  - pandas
-  - bokeh
-  - rise
+  - tweepy
+  - datetime
+  - nltk
+  - collections
+  - pickle
+  - re
+  - string
+  - random
+  - IPython
